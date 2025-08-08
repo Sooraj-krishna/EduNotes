@@ -1,0 +1,85 @@
+{
+  "name": "EduNotes - State Syllabus Classes 8-10",
+  "short_name": "EduNotes",
+  "description": "Comprehensive study notes and online tuition for State Syllabus Classes 8-10. Expert teaching, AI chatbot support, and affordable learning solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "EduNotes Homepage"
+    },
+    {
+      "src": "/screenshot-narrow.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "EduNotes Mobile View"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Study Notes",
+      "short_name": "Notes",
+      "description": "Access study materials",
+      "url": "/notes",
+      "icons": [
+        {
+          "src": "/icon-notes.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Q&A Platform",
+      "short_name": "Q&A",
+      "description": "Ask questions and get answers",
+      "url": "/qna",
+      "icons": [
+        {
+          "src": "/icon-qna.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+} 
